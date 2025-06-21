@@ -1,3 +1,8 @@
+# GOTO the RamLab repo for most recent updates.  This repo will no longer be updated.
+
+
+
+
 # RamanLab - Raman Spectrum Analysis Tool
 
 RamanLab is a comprehensive desktop application for analyzing and identifying Raman spectra. It provides a user-friendly interface for importing, processing, and matching Raman spectra against a database of known materials.
